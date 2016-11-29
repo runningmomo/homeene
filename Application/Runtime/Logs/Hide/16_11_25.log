@@ -1,0 +1,184 @@
+[ 2016-11-25T10:21:55+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:21:56+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:21:56+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:21:56+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:22:22+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:22:22+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:25:05+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:25:05+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:25:33+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:25:33+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:29:42+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:29:42+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:50:47+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:50:47+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:50:47+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:51:15+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:51:15+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:51:15+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:51:15+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:53:14+08:00 ] ::1 /Hide/Manager/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-11-25T10:53:14+08:00 ] ::1 /Hide/Manager/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-11-25T16:03:34+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-11-25T16:06:46+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-11-25T16:26:51+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-11-25T16:26:54+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-11-25T16:27:02+08:00 ] ::1 /Hide/Manager/stop/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-11-25T16:27:35+08:00 ] ::1 /Hide/Manager/stop/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:27:40+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `manager` SET `state`='0' WHERE `id` = 2 [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:38:02+08:00 ] ::1 /Hide/Manager/start/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0640s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `manager` SET `state`='1' WHERE `id` = 2 [ RunTime:0.0007s ]
+
+[ 2016-11-25T16:38:08+08:00 ] ::1 /Hide/Manager/stop/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0667s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `manager` SET `state`='0' WHERE `id` = 2 [ RunTime:0.0004s ]
+
+[ 2016-11-25T16:38:11+08:00 ] ::1 /Hide/Manager/start/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0032s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `manager` SET `state`='1' WHERE `id` = 2 [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:22+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:23+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0032s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:23+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:24+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:53:24+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0032s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:55:14+08:00 ] ::1 /Hide/Manager/del/id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0032s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: DELETE FROM `manager` WHERE `id` = 2 [ RunTime:0.0364s ]
+
+[ 2016-11-25T16:59:02+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0033s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-11-25T16:59:05+08:00 ] ::1 /Hide/Manager/del/id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0034s ]
+SQL: SELECT `username` FROM `manager` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
